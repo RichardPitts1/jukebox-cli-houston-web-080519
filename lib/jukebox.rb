@@ -1,5 +1,8 @@
 # Add your code here
 
 def help 
-  puts ""
+  puts "help : displays this help message"
+  puts 
+  puts
+  puts
 end 
