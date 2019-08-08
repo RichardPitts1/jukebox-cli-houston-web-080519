@@ -20,3 +20,5 @@ def help
 end 
 
 def list
+  puts songs
+end
