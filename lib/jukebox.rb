@@ -2,7 +2,7 @@
 
 def help 
   puts "help : displays this help message"
-  puts 
+  puts "list : displays a list of songs you can play"
   puts
   puts
 end 
